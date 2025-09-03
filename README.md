@@ -1,6 +1,6 @@
 # Présentation_Apex
 
-<img width="800" height="800" alt="Logo en couleurs_petit" src="https://github.com/user-attachments/assets/47270010-84e8-4801-b749-759d5cb20f5b" />
+![ptit](https://github.com/user-attachments/assets/965032d1-a475-42bf-8aff-b261abe77523)
 
 
 L'Apex est un Laboratoire de l'Institut Polytechnique UniLaSalle dédié aux projets pédagogiques et de recherche
